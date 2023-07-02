@@ -1,4 +1,4 @@
-# BOOTSTRAP-ODEV2
+# BOOTSTRAP-MEDIUM KLON
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End içerisindeki, Bootstrap eğitiminde oluşturduğumuz üçüncü repo. 
 
